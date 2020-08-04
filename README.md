@@ -6,6 +6,9 @@ This is a Music Player playing MP3 Files without Internet.
 #1
 Go here: https://savemp3.cc/
 
+(August 2020 Update - Alternative Link: https://youtubetomp3.sc/)
+(Do not use this link until you actually know how to download it. I know how)
+
 #2
 Copy and paste in link at the top, for example this (real video link):
 https://www.youtube.com/watch?v=5nmxDZSokzE&t=3965s
