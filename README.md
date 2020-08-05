@@ -9,6 +9,13 @@ Go here: https://savemp3.cc/ (2019 Website has been changed <- August 2020 Updat
 (August 2020 Update - Alternative Link: https://youtubetomp3.sc/)
 (Do not use this link until you actually know how to download it. I know how)
 
+3rd Alternative link:
+
+https://youtubetomp3.sc/
+
+Do not use unless you know how or you might be get malware or virus! 
+^Only I can use it for, just for me to see.
+
 #2
 Copy and paste in link at the top, for example this (real video link):
 https://www.youtube.com/watch?v=5nmxDZSokzE&t=3965s
