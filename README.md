@@ -14,7 +14,7 @@ Go here: https://savemp3.cc/ (2019 Website has been changed <- August 2020 Updat
 https://youtubetomp3.sc/
 
 Do not use unless you know how or you might be get malware or virus! 
-^Only I can use it for, just for me to see.
+^Only I can use it, just for me to see.
 
 #2
 Copy and paste in link at the top, for example this (real video link):
