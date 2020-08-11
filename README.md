@@ -2,6 +2,8 @@
 
 Currently in Development...
 
+(Partially Done, the UI needs a remake, will take a long time to finish...
+
 Music Player
 
 This is a Music Player playing MP3 Files without Internet.
