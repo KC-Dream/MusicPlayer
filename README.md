@@ -10,6 +10,12 @@ This is a Music Player playing MP3 Files without Internet.
 
 #1
 
+Also good:
+
+
+www.320youtube.com
+
+www.ytmp3.cc
 
 https://youtubetomp3.sc/
 
