@@ -1,5 +1,7 @@
 
+#Design UI 3.2
 
+![header image](https://github.com/CodingWithKevin/MusicPlayer/blob/master/images/test-image.png)
 
 Music Play List is EDM/American Songs...
 
