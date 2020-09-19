@@ -3,6 +3,8 @@
 
 ![header image](https://github.com/CodingWithKevin/MusicPlayer/blob/master/images/test-image.png)
 
+![header image](https://github.com/CodingWithKevin/MusicPlayer/blob/master/images/musicplayer-ui-3.6.png)
+
 Music Play List is EDM/American Songs...
 
 # MusicPlayer
