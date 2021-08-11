@@ -3,7 +3,13 @@ Here is an demonstration how to run this:
 
 https://www.youtube.com/watch?v=nU7CITnNdcc
 
+#Design UI 1.0
 
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/music-ui-1.0.png)
+
+#Design UI 2.0
+
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/music-ui-2.0.png)
 
 #Design UI 3.2
 
