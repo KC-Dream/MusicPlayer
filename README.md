@@ -21,9 +21,9 @@ https://www.youtube.com/watch?v=nU7CITnNdcc
 
 #Design UI 4.0
 
-Coming soon
+Music UI needs some editting and bug fixing. It is not completed yet.
 
-
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/music-ui-4.0.png)
 
 
 
