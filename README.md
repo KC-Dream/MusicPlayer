@@ -25,17 +25,17 @@ Music UI needs some editting and bug fixing. It is not completed yet.
 
 ![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/music-ui-4.0.png)
 
-#Design UI 4.1 or 5.0 may be made if I had time...
+#Design UI 5.0
 
-(Also not even started on yet)
+Compared to 4.0, Genres have been moved to the top, the music lists are more organized. But Some say UI 4.0 looks better, while others say 5.0.
 
-Music Play List is EDM/American Songs...
+But saying way better compared to UI 3.0.
+
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/Screen%20Shot%202021-08-24%20at%205.42.48%20PM.png)
+
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/Screen%20Shot%202021-08-24%20at%206.10.48%20PM.png)
 
 # MusicPlayer
-
-Currently in Development...
-
-(Partially Done, the UI needs a remake, will take a long time to finish...
 
 Music Player
 
