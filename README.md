@@ -35,6 +35,14 @@ But saying way better compared to UI 3.0.
 
 ![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/Screen%20Shot%202021-08-24%20at%206.10.48%20PM.png)
 
+#Design UI 5.1
+
+Changes to the Color and Styling
+
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI%205.1%20p1.png)
+
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI%205.1%20p2.png)
+
 # MusicPlayer
 
 Music Player
