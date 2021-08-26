@@ -43,6 +43,12 @@ Changes to the Color and Styling
 
 ![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI%205.1%20p2.png)
 
+#Design UI 6.0
+
+Will there be a 6.0 UI? Maybe.
+
+
+
 # MusicPlayer
 
 Music Player
