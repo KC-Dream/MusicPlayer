@@ -45,7 +45,9 @@ Changes to the Color and Styling
 
 #Design UI 6.0
 
-Will there be a 6.0 UI? Yes, coming soon!
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI-6.0-p1.png)
+
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI-6.0-p2.png)
 
 
 
