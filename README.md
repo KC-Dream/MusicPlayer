@@ -45,7 +45,7 @@ Changes to the Color and Styling
 
 #Design UI 6.0
 
-Will there be a 6.0 UI? Maybe.
+Will there be a 6.0 UI? Yes, coming soon!
 
 
 
