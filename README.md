@@ -50,6 +50,11 @@ Changes to the Color and Styling
 ![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI-6.0-p2.png)
 
 
+#Design UI 7.0
+
+Coming Soon
+
+
 
 # MusicPlayer
 
