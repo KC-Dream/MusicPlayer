@@ -58,6 +58,10 @@ Coming Soon (Already finished, but not posting picture yet until UI 8 is done) (
 
 Coming Soon
 
+#Design UI 8.1
+
+Coming Soon
+
 
 
 # MusicPlayer
