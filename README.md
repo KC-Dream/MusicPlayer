@@ -65,7 +65,7 @@ Changes to the Color and Styling
 
 #Design UI 7.0
 
-Coming Soon (Already finished, but not posting picture yet until UI 8 is done) (Only released if version 8.0 is completed, might take a while)
+Coming Soon
 
 #Design UI 8.0
 
