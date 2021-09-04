@@ -7,11 +7,11 @@ https://www.youtube.com/watch?v=nU7CITnNdcc
 
 Design UI Ranking: (Coming soon)
 
-1st place -
+1st place - Design 9
 
-2nd place.-
+2nd place - Design 8
 
-3rd place -
+3rd place - Design 4
 
 
 
