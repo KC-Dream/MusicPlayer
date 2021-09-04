@@ -65,13 +65,15 @@ Changes to the Color and Styling
 
 #Design UI 7.0
 
-Coming Soon
+
 
 #Design UI 8.0
 
-Coming Soon
+Different from Design 7
 
-#Design UI 8.1
+#Design UI 9.0
+
+-Similar to Design 8 except some slight changes, be easier to call it Design 9 instead
 
 Coming Soon
 
