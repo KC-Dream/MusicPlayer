@@ -17,6 +17,8 @@ Design UI Ranking: (Not all rated by me, rated by 10+ people)
 
 5th place - Design 5
 
+6th place -> last place - rest of designs
+
 
 #Design UI 1.0
 
