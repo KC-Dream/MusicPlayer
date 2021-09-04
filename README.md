@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=nU7CITnNdcc
 
 2021/2022 Version - Coming soon
 
-Design UI Ranking: (Not all rated by me, rated by 10+ people)
+Design UI Ranking: (Not rated by me, rated by 10+ people)
 
 1st place - Design 9 (coming soon)
 
