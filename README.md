@@ -65,15 +65,21 @@ Changes to the Color and Styling
 
 #Design UI 7.0
 
-
+-Design didn't go as expected or planned, but Design 8 way better
 
 #Design UI 8.0
 
-Different from Design 7
+-Different from Design 7 and way better
+-massive change
 
 #Design UI 9.0
 
 -Similar to Design 8 except some slight changes, be easier to call it Design 9 instead
+-Better than Design 8, but not as big changes
+-Expanded playbar at the bottom
+-music bars has returned from Design 4, but this time it is called "mini music bar" animations on the bottom rather than large ones previously seen in Design 4
+-Slight layout change
+
 
 Coming Soon
 
