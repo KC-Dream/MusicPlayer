@@ -83,9 +83,7 @@ Changes to the Color and Styling
 -Expanded playbar at the bottom\
 -music bars has returned from Design 4, but this time it is called "mini music bar" animations on the bottom rather than large ones previously seen in Design 4\
 -Slight layout change\
--Included New Carousel Card (Press Left Arrow to go left, press Right Arrow to go right)\
-
-
+-Included New Carousel Card (Press Left Arrow to go left, press Right Arrow to go right)
 
 Coming Soon
 
