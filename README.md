@@ -74,7 +74,11 @@ Changes to the Color and Styling
 #Design UI 8.0
 
 -Different from Design 7 and way better\
--massive change
+-massive change\
+
+-column resizing depending on screen size has been added\
+-Music Playlist Page has been changed alot\
+-Added Linear Gradient boxes for each song/music\
 
 #Design UI 9.0
 
@@ -83,7 +87,18 @@ Changes to the Color and Styling
 -Expanded playbar at the bottom\
 -music bars has returned from Design 4, but this time it is called "mini music bar" animations on the bottom rather than large ones previously seen in Design 4\
 -Slight layout change\
--Included New Carousel Card (Press Left Arrow to go left, press Right Arrow to go right)
+-Included New Carousel Card (Press Left Arrow to go left, press Right Arrow to go right)\
+-Added colorful buttons on the music page main\
+-Navbar fixed for resizing screens, old update would cause it to overflow out of the container\
+-Navbar Icons sizing has been improved\
+-Removed News Icon from Navbar\
+-Added Search Icon for possible future update\
+
+-More playlists maybe added
+-Searching Feature maybe added depending on time
+(More songs may require a better Database)
+
+
 
 Coming Soon
 
