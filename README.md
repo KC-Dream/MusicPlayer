@@ -74,11 +74,12 @@ Changes to the Color and Styling
 #Design UI 8.0
 
 -Different from Design 7 and way better\
--massive change\
+-massive change
 
 -column resizing depending on screen size has been added\
 -Music Playlist Page has been changed alot\
 -Added Linear Gradient boxes for each song/music\
+-Playbar has been added the bottom
 
 #Design UI 9.0
 
