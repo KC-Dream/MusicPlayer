@@ -97,9 +97,11 @@ Changes to the Color and Styling
 
 -More playlists maybe added
 -Searching Feature maybe added depending on time
-(More songs may require a better Database)
+(More songs may require a better Database)\
 
-
+-Issues detected so far\
+-Performance issues
+-Security issues
 
 Coming Soon
 
