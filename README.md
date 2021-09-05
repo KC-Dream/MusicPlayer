@@ -78,8 +78,8 @@ Changes to the Color and Styling
 
 #Design UI 9.0
 
--Similar to Design 8 except some slight changes, be easier to call it Design 9 instead
--Better than Design 8, but not as big changes
+-Similar to Design 8 except some slight changes, be easier to call it Design 9 instead\
+-Better than Design 8, but not as big changes\
 -Expanded playbar at the bottom
 -music bars has returned from Design 4, but this time it is called "mini music bar" animations on the bottom rather than large ones previously seen in Design 4
 -Slight layout change
