@@ -95,12 +95,12 @@ Changes to the Color and Styling
 -Removed News Icon from Navbar\
 -Added Search Icon for possible future update\
 
--More playlists maybe added
--Searching Feature maybe added depending on time
+-More playlists maybe added\
+-Searching Feature maybe added depending on time\
 (More songs may require a better Database)\
 
 -Issues detected so far\
--Performance issues
+-Performance issues\
 -Security issues
 
 Coming Soon
