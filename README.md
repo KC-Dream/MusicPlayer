@@ -7,9 +7,9 @@ https://www.youtube.com/watch?v=nU7CITnNdcc
 
 Design UI Ranking: (Not rated by me, rated by 10+ people)
 
-1st place - Design 9 (coming soon)
+1st place - Design 9 (coming soon) (not completed yet)
 
-2nd place - Design 8 (coming soon)
+2nd place - Design 8 (coming soon) (completed)
 
 3rd place - Design 4
 
@@ -73,16 +73,18 @@ Changes to the Color and Styling
 
 #Design UI 8.0
 
--Different from Design 7 and way better
+-Different from Design 7 and way better\
 -massive change
 
 #Design UI 9.0
 
 -Similar to Design 8 except some slight changes, be easier to call it Design 9 instead\
 -Better than Design 8, but not as big changes\
--Expanded playbar at the bottom
--music bars has returned from Design 4, but this time it is called "mini music bar" animations on the bottom rather than large ones previously seen in Design 4
--Slight layout change
+-Expanded playbar at the bottom\
+-music bars has returned from Design 4, but this time it is called "mini music bar" animations on the bottom rather than large ones previously seen in Design 4\
+-Slight layout change\
+-Included New Carousel Card (Press Left Arrow to go left, press Right Arrow to go right)\
+
 
 
 Coming Soon
