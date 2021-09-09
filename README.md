@@ -7,9 +7,9 @@ https://www.youtube.com/watch?v=nU7CITnNdcc
 
 Design UI Ranking: (Not rated by me, rated by 10+ people)
 
-1st place - Design 9 (coming soon) (not completed yet)
+1st place - Design 9
 
-2nd place - Design 8 (coming soon) (completed)
+2nd place - Design 8
 
 3rd place - Design 4
 
