@@ -85,6 +85,10 @@ Changes to the Color and Styling
 
 #Design UI 9.0
 
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI-9.0.jpeg)
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI-9.0-p2.jpeg)
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI-9.0-p3.jpeg)
+
 -Similar to Design 8 except some slight changes, be easier to call it Design 9 instead\
 -Better than Design 8, but not as big changes\
 -Expanded playbar at the bottom\
@@ -105,7 +109,6 @@ Changes to the Color and Styling
 -Performance issues\
 -Security issues
 
-Coming Soon
 
 
 
