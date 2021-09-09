@@ -69,12 +69,14 @@ Changes to the Color and Styling
 
 #Design UI 7.0
 
--Design didn't go as expected or planned, but Design 8 way better
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI-7.0.jpeg)
 
 #Design UI 8.0
 
 -Different from Design 7 and way better\
 -massive change
+
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI-8.0.jpeg)
 
 -column resizing depending on screen size has been added\
 -Music Playlist Page has been changed alot\
