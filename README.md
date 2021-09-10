@@ -111,7 +111,9 @@ Changes to the Color and Styling
 -Performance issues\
 -Security issues
 
+#Design UI 10.0
 
+Will there be a Design 10? Maybe not since it might be difficult and time consuming.
 
 
 # MusicPlayer
