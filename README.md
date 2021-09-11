@@ -9,18 +9,19 @@ https://www.youtube.com/watch?v=qu0Cgxrn_ek&t=247s
 
 Design UI Ranking: (Not rated by me, rated by 10+ people)
 
-1st place - Design 9
+1st place - Design 10 (Not completed maybe take 2 weeks maybe, nicknamed the "Design 9 and 4 killer") Unranked yet, expected to be Rank 1
 
-2nd place - Design 8
+2nd place - Design 9
 
-3rd place - Design 4
+3rd place - Design 8
 
-4th place - Design 6
+4th place - Design 4
 
-5th place - Design 5
+5th place - Design 6
 
-6th place -> last place - rest of designs
+6th place - Design 5
 
+7th place -> last place - rest of designs
 
 #Design UI 1.0
 
