@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=qu0Cgxrn_ek&t=247s
 
 September 2021 Version - Not available yet
 
-[Link coming soo]
+[Link coming soon]
 
 Design UI Ranking: (Not rated by me, rated by 10+ people)
 
