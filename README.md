@@ -13,7 +13,8 @@ September 2021 Version - Not available yet
 
 Design UI Ranking: (Not rated by me, rated by 10+ people)
 
-1st place - Design 10 (Not completed maybe take 2 weeks maybe, nicknamed the "Design 9 and 4 killer") Unranked yet, expected to be Rank 1
+1st place - Design 10 (Not completed maybe take 2 weeks maybe, nicknamed the "Design 9 and 4 killer", people said look more clean and better)\
+Unranked yet, expected to be Rank 1
 
 2nd place - Design 9
 
