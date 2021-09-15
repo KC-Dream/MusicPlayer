@@ -121,7 +121,7 @@ Changes to the Color and Styling
 
 Will there be a Design 10? Maybe not since it might be difficult and time consuming.
 
-Almost complete different design
+Almost complete different design.
 
 
 # MusicPlayer
