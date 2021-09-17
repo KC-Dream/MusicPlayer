@@ -123,6 +123,15 @@ Will there be a Design 10? Maybe not since it might be difficult and time consum
 
 Almost complete different design.
 
+-Circular play/pause button
+
+-Progress bar and slider included
+
+-Logo added
+
+-More Songs added
+
+
 
 # MusicPlayer
 
