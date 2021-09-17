@@ -107,11 +107,11 @@ Changes to the Color and Styling
 -Navbar fixed for resizing screens, old update would cause it to overflow out of the container\
 -Navbar Icons sizing has been improved\
 -Removed News Icon from Navbar\
--Added Search Icon for possible future update\
+-Added Search Icon for possible future update
 
 -More playlists maybe added\
 -Searching Feature maybe added depending on time\
-(More songs may require a better Database)\
+(More songs may require a better Database)
 
 -Issues detected so far\
 -Performance issues\
