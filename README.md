@@ -131,7 +131,7 @@ Almost complete different design.
 
 -More Songs added
 
--Made included few songs/music from Lofi, Nightcore, Electronic, Hindi, Vietnamese, Spanish and more
+-May included few songs/music from Lofi, Nightcore, Electronic, Hindi, Vietnamese, Spanish and more
 
 
 
