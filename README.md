@@ -119,7 +119,7 @@ Changes to the Color and Styling
 
 #Design UI 10.0
 
-Will there be a Design 10? Maybe not since it might be difficult and time consuming.
+Will there be a Design 10? Most likely.
 
 Almost complete different design.
 
