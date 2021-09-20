@@ -131,7 +131,17 @@ Almost complete different design.
 
 -More Songs added
 
--May included few songs/music from Lofi, Nightcore, Electronic, Hindi, Vietnamese, Spanish and more
+-May included few songs/music from Lofi, Nightcore, Electronic, Hindi, Vietnamese, Spanish and more.
+
+-Different pictures for each song being played
+
+-History Page added to record each music played, clicked, or visited.
+
+-Larger file size compared to the UI Design 9
+
+-About Page probably needs improvements
+
+-Haven't fixed the screen resizing issue and mobile size issue, since new design
 
 
 
