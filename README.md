@@ -124,7 +124,7 @@ Changes to the Color and Styling
 
 Will there be a Design 10? Most likely.
 
-Almost complete different design.
+Almost completely different design.
 
 -Circular play/pause button
 
