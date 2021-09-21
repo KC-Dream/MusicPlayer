@@ -125,9 +125,9 @@ Changes to the Color and Styling
 
 #Design UI 10.0
 
-![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI-10p1.png)
-![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI-10p2.png)
 ![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI-10p3.png)
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI-10p2.png)
+![header image](https://github.com/KevinCompany-CodingOfficial/MusicPlayer/blob/master/images/UI-10p1.png)
 
 Will there be a Design 10? Most likely.
 
