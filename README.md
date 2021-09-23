@@ -7,7 +7,9 @@ August 2021 Version - Here it is:
 
 https://www.youtube.com/watch?v=qu0Cgxrn_ek&t=247s
 
-September 2021 Version - Not available yet
+September 2021 Version - Here it is:
+
+https://www.youtube.com/watch?v=8RUf1fs7DvE
 
 [Link coming soon]
 
